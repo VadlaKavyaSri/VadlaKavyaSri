@@ -32,14 +32,16 @@ Former **ML Data Associate I at Amazon** with experience in Generative AI evalua
 
 ## 🛠️ Skill Stack
 
+<br>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
 </p>
 
@@ -89,11 +91,7 @@ A machine learning project focused on identifying potentially fraudulent transac
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VadlaKavyaSri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=210" width="210" height="160" alt="GitHub statistics" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadlaKavyaSri&layout=compact&theme=tokyonight&hide_border=true&card_width=210" width="210" height="160" alt="Most used programming languages" />&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=VadlaKavyaSri&theme=tokyonight&hide_border=true&card_width=210" width="210" height="160" alt="GitHub contribution streak" />
-</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VadlaKavyaSri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=215" width="215" height="170" alt="GitHub statistics" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadlaKavyaSri&layout=compact&theme=tokyonight&hide_border=true&card_width=215" width="215" height="170" alt="Most used programming languages" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=VadlaKavyaSri&theme=tokyonight&hide_border=true&card_width=215" width="215" height="170" alt="GitHub contribution streak" /></p>
 
 <br>
 
