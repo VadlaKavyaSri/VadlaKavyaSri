@@ -2,9 +2,9 @@
 
 ### Aspiring Software Developer | Python | Java | Web Development | Generative AI
 
-I'm a Computer Science graduate with professional experience in Generative AI evaluation at Amazon. I'm currently strengthening my programming skills and exploring software development through hands-on projects.
+I'm a Computer Science graduate with professional experience in Generative AI evaluation at Amazon. I'm currently strengthening my programming skills and building practical projects to grow as a software developer.
 
-I enjoy building user-friendly web applications, solving programming problems, and learning how AI can be applied to real-world challenges.
+I enjoy problem-solving, developing user-friendly applications, and exploring real-world applications of AI.
 
 ---
 
@@ -12,60 +12,59 @@ I enjoy building user-friendly web applications, solving programming problems, a
 
 - 🎓 B.Tech in Computer Science and Engineering
 - 💼 Former ML Data Associate I at Amazon
-- 🌱 Currently learning Python and improving my software development skills
-- 🤖 Interested in AI, Generative AI, and application development
-- 🚀 Focused on building practical projects and growing as a developer
+- 🌱 Currently learning Python and improving my coding skills
+- 🤖 Interested in software development, AI, and Generative AI
+- 🚀 Passionate about continuous learning and building practical projects
 
 ## 🛠️ Skills
 
 | Category | Technologies & Skills |
 |:---|:---|
-| **Programming** | Python, Java |
-| **Web Development** | HTML, CSS, JavaScript |
+| **Programming Languages** | Python, Java |
+| **Web Technologies** | HTML, CSS, JavaScript |
 | **Database** | MySQL |
-| **AI & Machine Learning** | Generative AI, LLM Evaluation, Machine Learning Fundamentals |
+| **AI & Machine Learning** | Machine Learning Fundamentals, Generative AI, LLM Evaluation |
 | **Tools & Platforms** | Git, GitHub, AWS SageMaker, Appen |
+| **Core Concepts** | Object-Oriented Programming, DSA Fundamentals, Problem-Solving |
 
 ## 🚀 Featured Projects
 
 ### 🌌 Galaxy Explorer
 
-An interactive web application designed to explore the universe through a user-friendly interface.
+An interactive, space-themed web application.
 
-- Developed a visually engaging interface using HTML, CSS, and JavaScript.
-- Used PHP and MySQL for server-side functionality and database operations.
-- Combined interactive web elements with a space-themed design to create an engaging browsing experience.
+- Built an engaging interface using HTML, CSS, and JavaScript.
+- Used PHP and MySQL for backend functionality and database operations.
 
-🔗 [View Project](https://github.com/VadlaKavyaSri/Galaxy-Explorer)
+🔗 [Explore the Live Website](https://vadlakavyasri.github.io/Galaxy-Explorer)
 
 ### 😷 Face Mask Detection
 
-A computer vision project focused on identifying whether a person is wearing a face mask.
+A computer vision project for identifying face mask usage.
 
-- Applied image-processing and computer vision concepts to detect faces and identify mask usage.
-- Explored CNN and Viola–Jones techniques as part of the detection approach.
-- Used Python to develop and test the project for automated face mask detection.
+- Applied Python and computer vision techniques for face mask detection.
+- Explored CNN and Viola–Jones approaches.
 
 🔗 [View Repository](https://github.com/VadlaKavyaSri/Face-Mask-Detection)
 
 ### 💳 Online Payment Fraud Detection
 
-A machine learning project aimed at identifying potentially fraudulent online payment transactions.
+A machine learning project for identifying potentially fraudulent transactions.
 
-- Worked with a transaction dataset containing approximately 6.36 million records.
-- Used Python libraries such as Pandas and NumPy for data processing and analysis.
-- Applied Scikit-learn to explore machine learning techniques for classifying potentially fraudulent transactions.
+- Analyzed approximately 6.36 million transaction records using Pandas and NumPy.
+- Explored Scikit-learn techniques for fraud classification.
 
 ## 🏆 Achievements
 
-- 🥇 Prime Player Award — Amazon AWS Bedrock Team
+- 🥇 Prime Player Award - Amazon AWS Bedrock Team
 - 🎓 B.Tech CGPA: 8.47/10
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [V Kavya Sri](https://www.linkedin.com/in/vadlakavyasri/)
-- 💻 GitHub: [VadlaKavyaSri](https://github.com/VadlaKavyaSri)
-- 📧 Email: [vadlakavyasri3@gmail.com](mailto:vadlakavyasri3@gmail.com)
+- 📧 **Email:** [vadlakavyasri3@gmail.com](mailto:vadlakavyasri3@gmail.com)
+- 💼 **LinkedIn:** [V Kavya Sri](https://www.linkedin.com/in/vadlakavyasri/)
+- 📱 **Mobile:** 9502574038
+- 💻 **GitHub:** [VadlaKavyaSri](https://github.com/VadlaKavyaSri)
 
 ---
 
