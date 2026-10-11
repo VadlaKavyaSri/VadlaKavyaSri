@@ -1,6 +1,5 @@
 # Hi, I'm Kavya Sri 👋
 
-### Aspiring Software Developer | Python | Java | Web Development | Generative AI
 
 Former ML Data Associate I at Amazon with 1.5 years of experience in Generative AI evaluation and LLM response quality. Currently strengthening my programming skills and building practical software projects.
 
