@@ -2,19 +2,21 @@
 
 ### Aspiring Software Developer | Python | Java | Web Development | Generative AI
 
-I'm a Computer Science graduate with professional experience in Generative AI evaluation at Amazon. I'm currently strengthening my programming skills and building practical projects to grow as a software developer.
-
-I enjoy problem-solving, developing user-friendly applications, and exploring real-world applications of AI.
+Former ML Data Associate I at Amazon with 1.5 years of experience in Generative AI evaluation and LLM response quality. Currently strengthening my programming skills and building practical software projects.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering
-- 💼 Former ML Data Associate I at Amazon
-- 🌱 Currently learning Python and improving my coding skills
-- 🤖 Interested in software development, AI, and Generative AI
-- 🚀 Passionate about continuous learning and building practical projects
+💼 **Experience:** Worked at Amazon on Generative AI evaluation, response quality, and error analysis.
+
+🌱 **Currently Learning:** Python and software development fundamentals.
+
+🤖 **Interests:** AI applications, web development, and problem-solving.
+
+🎓 **Education:** B.Tech in Computer Science and Engineering; currently pursuing M.Tech in Artificial Intelligence and Machine Learning.
+
+🚀 **Goal:** Grow into a software developer by building practical applications and improving my coding skills.
 
 ## 🛠️ Skills
 
@@ -23,9 +25,9 @@ I enjoy problem-solving, developing user-friendly applications, and exploring re
 | **Programming Languages** | Python, Java |
 | **Web Technologies** | HTML, CSS, JavaScript |
 | **Database** | MySQL |
-| **AI & Machine Learning** | Machine Learning Fundamentals, Generative AI, LLM Evaluation |
+| **AI & Machine Learning** | Generative AI, LLM Evaluation, Machine Learning Fundamentals |
 | **Tools & Platforms** | Git, GitHub, AWS SageMaker, Appen |
-| **Core Concepts** | Object-Oriented Programming, DSA Fundamentals, Problem-Solving |
+| **Core Skills** | OOP, DSA Fundamentals, Problem-Solving, Data Quality Analysis |
 
 ## 🚀 Featured Projects
 
@@ -36,14 +38,14 @@ An interactive, space-themed web application.
 - Built an engaging interface using HTML, CSS, and JavaScript.
 - Used PHP and MySQL for backend functionality and database operations.
 
-🔗 [Explore the Live Website](https://vadlakavyasri.github.io/Galaxy-Explorer)
+🔗 **[Explore Live Website](https://vadlakavyasri.github.io/Galaxy-Explorer)** · [View Repository](https://github.com/VadlaKavyaSri/Galaxy-Explorer)
 
 ### 😷 Face Mask Detection
 
 A computer vision project for identifying face mask usage.
 
-- Applied Python and computer vision techniques for face mask detection.
-- Explored CNN and Viola–Jones approaches.
+- Used Python and image-processing concepts for face mask detection.
+- Explored CNN and Viola–Jones techniques for the detection approach.
 
 🔗 [View Repository](https://github.com/VadlaKavyaSri/Face-Mask-Detection)
 
@@ -51,20 +53,24 @@ A computer vision project for identifying face mask usage.
 
 A machine learning project for identifying potentially fraudulent transactions.
 
-- Analyzed approximately 6.36 million transaction records using Pandas and NumPy.
+- Analyzed a dataset containing approximately 6.36 million transactions using Pandas and NumPy.
 - Explored Scikit-learn techniques for fraud classification.
 
 ## 🏆 Achievements
 
-- 🥇 Prime Player Award - Amazon AWS Bedrock Team
-- 🎓 B.Tech CGPA: 8.47/10
+🏅 **Prime Player Award** — Amazon AWS Bedrock Team
+
+🎓 **B.Tech CGPA:** 8.47/10
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [vadlakavyasri3@gmail.com](mailto:vadlakavyasri3@gmail.com)
-- 💼 **LinkedIn:** [V Kavya Sri](https://www.linkedin.com/in/vadlakavyasri/)
-- 📱 **Mobile:** 9502574038
-- 💻 **GitHub:** [VadlaKavyaSri](https://github.com/VadlaKavyaSri)
+📧 **Email:** [vadlakavyasri3@gmail.com](mailto:vadlakavyasri3@gmail.com)
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/vadlakavyasri/" target="_blank">V Kavya Sri</a>
+
+📱 **Mobile:** 9502574038
+
+💻 **GitHub:** [VadlaKavyaSri](https://github.com/VadlaKavyaSri)
 
 ---
 
