@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vadlakavyasri/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://www.linkedin.com/in/vadlakavyasri/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect-173B4D?style=for-the-badge&logoColor=white" alt="Connect on LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:vadlakavyasri3@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="mailto:vadlakavyasri3@gmail.com"><img src="https://img.shields.io/badge/Compose_Mail-173B4D?style=for-the-badge&logoColor=white" alt="Compose Mail" /></a>
+  <a href="mailto:vadlakavyasri3@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vadlakavyasri3%40gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Compose_Mail-173B4D?style=for-the-badge&logoColor=white" alt="Compose Mail" /></a>
 </p>
 
 ---
@@ -90,7 +90,9 @@ A machine learning project focused on identifying potentially fraudulent transac
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VadlaKavyaSri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=280" width="280" height="180" alt="GitHub statistics" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadlaKavyaSri&layout=compact&theme=tokyonight&hide_border=true&card_width=280" width="280" height="180" alt="Most used programming languages" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=VadlaKavyaSri&theme=tokyonight&hide_border=true&card_width=280" width="280" height="180" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VadlaKavyaSri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=210" width="210" height="160" alt="GitHub statistics" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadlaKavyaSri&layout=compact&theme=tokyonight&hide_border=true&card_width=210" width="210" height="160" alt="Most used programming languages" />&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=VadlaKavyaSri&theme=tokyonight&hide_border=true&card_width=210" width="210" height="160" alt="GitHub contribution streak" />
 </p>
 
 <br>
