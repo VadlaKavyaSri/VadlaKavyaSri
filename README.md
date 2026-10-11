@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=V%20Kavya%20Sri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="V Kavya Sri profile banner" />
 </p>
 
-<h3 align="center">Aspiring Software Developer | Python | Java | Web Development | Generative AI</h3>
+<h3 align="center">Aspiring Software Developer | Python | Java | Web Development | Generative AI | LLM Evaluation</h3>
 
 <!-- PROFILE BUTTONS -->
 <p align="center">
@@ -45,7 +45,7 @@ Former **ML Data Associate I at Amazon** with experience in Generative AI evalua
   <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
 </p>
 
-| Category | Technologies & Skills |
+| **CATEGORY** | **TECHNOLOGIES & SKILLS** |
 |---|---|
 | Programming Languages | Python, Java |
 | Web Technologies | HTML, CSS, JavaScript |
@@ -91,7 +91,7 @@ A machine learning project focused on identifying potentially fraudulent transac
 
 ## 📊 GitHub Statistics
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VadlaKavyaSri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=215" width="215" height="170" alt="GitHub statistics" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadlaKavyaSri&layout=compact&theme=tokyonight&hide_border=true&card_width=215" width="215" height="170" alt="Most used programming languages" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=VadlaKavyaSri&theme=tokyonight&hide_border=true&card_width=215" width="215" height="170" alt="GitHub contribution streak" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VadlaKavyaSri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=240" width="240" height="180" alt="GitHub statistics" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadlaKavyaSri&layout=compact&theme=tokyonight&hide_border=true&card_width=240" width="240" height="180" alt="Most used programming languages" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=VadlaKavyaSri&theme=tokyonight&hide_border=true&card_width=240" width="240" height="180" alt="GitHub contribution streak" /></p>
 
 <br>
 
